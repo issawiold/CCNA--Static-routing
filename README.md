@@ -19,7 +19,7 @@ fig#ip route <the final ip address> <final ip address subnet msk>  <the name of 
 
 or
 
-fig#ip route <the final ip address> <final ip address subnet msk>  <the name of the interface on the router that coonecter to the next router> <next hop(router ip address)>
+fig#ip route  <the final ip address>  <final ip address subnet msk>   <the name of the interface on the router that coonecter to the next router>  <next hop(router ip address)>
 
 
 Make sure that the routes goes to and back from there 2 ways
