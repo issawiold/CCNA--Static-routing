@@ -10,7 +10,12 @@ fig#ip route <the final ip address> <final ip address subnet msk>  <next hop(rou
 
 or
 
-fig#ip route <the final ip address> <final ip address subnet msk>  <the name of the interface on the router that coonecter to the next router>
+fig#ip route <the final ip address> <final ip address subnet msk>  <the name of the interface on the next router (the next destination)>
+
+
+
+
+
 
 or
 
