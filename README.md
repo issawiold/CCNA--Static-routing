@@ -1,4 +1,5 @@
 # CCNA--Static-routing
+##check the code for the correct commands
 in the router using those commands
 
 \>en
