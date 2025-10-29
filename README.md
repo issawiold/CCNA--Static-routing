@@ -12,7 +12,7 @@ or
 
 fig#ip route <the final ip address> <final ip address subnet msk>  <the name of the interface on the next router (the next destination)>
 
-
+![static router](https://github.com/issawiold/CCNA--Static-routing/blob/main/Screenshot%202025-10-29%20034328.png)
 
 
 
