@@ -2,6 +2,8 @@
 ## check the code for the correct commands
 in the router using those commands
 
+### be extra carefull when aing  static route cause adding a second one on the same router will not overwrite the first one it will become two rules for one route so make sure to use No ip route after making a mistake.
+
 \>en
 
 \#conf t
