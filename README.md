@@ -6,7 +6,11 @@ in the router using those commands
 
 \#conf t
 
+-double check theip addressof each interface before assining ip addresses-
+
 fig#ip route <the final ip address> <final ip address subnet msk>  <next hop( next router ip address on the same network)>
+
+-if you use the previously mentioned command a message should appear about point 2 point connection don't worry about it-
 
 or
 
